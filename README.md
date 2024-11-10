@@ -7,7 +7,7 @@
 
 ![Murilo GitHub stats](https://github-readme-stats.vercel.app/api?username=mmagalhaesdev&show_icons=true&theme=tokyonight)
 
-![Murilo](https://github-readme-stats.vercel.app/api/top-langs/?username=mmagalhaesdev&size_weight=0.5&count_weight=0.5 theme=tokyonight)
+![Murilo](https://github-readme-stats.vercel.app/api/top-langs/?username=mmagalhaesdev&hide_progress=true&theme=tokyonight)
 
 <h2 style="text-align: center">Tecnologias que estou aprendendo:</h2>
 <div style="display:inline_bloclk; justify-content: center;">
