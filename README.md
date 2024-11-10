@@ -28,7 +28,7 @@
 <img src="https://github.com/user-attachments/assets/7fce2991-6290-49aa-95e7-31e62cd69ee3" style="width: 450px;">
 </div>
 <br>
-<p align="center">"A única maneira de fazer um excelente trabalho é amar o que você faz" - Steve Jobs</p>
+<p align="center">"A única maneira de fazer um excelente trabalho é amar o que você faz." - Steve Jobs</p>
 
 
 
