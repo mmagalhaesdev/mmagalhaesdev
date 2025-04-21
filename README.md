@@ -8,7 +8,7 @@
 <br>
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=mmagalhaesdev&show_icons=true&theme=tokyonight">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mmagalhaesdev&hide_progress=true&theme=tokyonight">
+<img src="">
 </div>
 <h2 align="center">Tecnologias que estou aprendendo:</h2>
 <div align="center">
