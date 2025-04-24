@@ -8,7 +8,7 @@
 <br>
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=mmagalhaesdev&show_icons=true&theme=tokyonight&include_all_commits=true&locate=pt-br">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mmagalhaesdev&hide_progress=true&theme=tokyonight&langs_count=8&layout=compact">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mmagalhaesdev&hide_progress=true&theme=tokyonight&langs_count=10&layout=compact">
 </div>
 <h2 align="center">Tecnologias que estou aprendendo:</h2>
 <div align="center">
