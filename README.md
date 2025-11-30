@@ -6,11 +6,7 @@
 <a href="https://www.linkedin.com/in/murilo-magalh%C3%A3es-b15045336"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </div>
 <br>
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=mmagalhaesdev&show_icons=true&theme=tokyonight&include_all_commits=true&locate=pt-br">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mmagalhaesdev&hide_progress=true&theme=tokyonight&langs_count=50&layout=compact">
-</div>
-<h2 align="center">Tecnologias que estou aprendendo:</h2>
+<h2 align="center">Tecnologias que eu domino:</h2>
 <div align="center">
 <img alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 <img alt="css" src=https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white>
